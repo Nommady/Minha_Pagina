@@ -1,4 +1,5 @@
 h2{
+    color: white;
     font-family: 'Comic Neue', cursive;
 }
 .primeira_parte{
@@ -9,7 +10,6 @@ h2{
 .segunda_parte{
     background-image: url(https://encurtador.com.br/JLNXY);
     background-size: cover;
-    color: white;
 }
 .perfil{
     padding: 1em;
