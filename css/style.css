@@ -55,6 +55,7 @@ h2{
 .card-text{
     display:none;
     font-family: 'Comic Neue', cursive;
+    color: black;
 }
 .card :hover .card-text{
     display: block;
