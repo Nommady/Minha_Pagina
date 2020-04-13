@@ -1,1 +1,61 @@
-edcdcdc
+h2{
+    font-family: 'Comic Neue', cursive;
+}
+.primeira_parte{
+    background-image: url(https://encurtador.com.br/vBS47);
+    background-size: cover;
+    color: white;
+}
+.segunda_parte{
+    background-image: url(https://encurtador.com.br/JLNXY);
+    background-size: cover;
+    color: white;
+}
+.perfil{
+    padding: 1em;
+    width: 13em;
+    padding: 1em;
+    box-shadow:1px 1px 10px 5px rgb(216, 152, 69);
+}
+.container-fluid img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-fluid{
+    padding: 1em;   
+}
+.presentation h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    display: flex;    
+    justify-content: center;
+}
+.presentation p{
+    font-family: 'Comic Neue', cursive;
+        
+}
+.tracejado{
+    padding: 0;
+    border-bottom: rgb(253, 253, 253) dashed;
+    background-color: rgb(2, 2, 2);
+    margin: 0;
+}
+.card{
+    font-family: 'Open Sans Condensed', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    
+    
+}
+.test{
+    padding: 10px;
+}
+.card-text{
+    display:none;
+    font-family: 'Comic Neue', cursive;
+}
+.card :hover .card-text{
+    display: block;
+}
